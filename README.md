@@ -12,20 +12,20 @@ CSS3<br>
 JavaScript<br>
 Angular (básico)<br>
 
-⚙️ Back-end
+⚙️ Back-end<br>
 PHP
 
-🗄️ Banco de Dados
+🗄️ Banco de Dados<br>
 MySQL<br>
 Criação de queries (SELECT, INSERT, JOIN)<br>
 Procedures e Triggers<br>
 
-🔧 Ferramentas
+🔧 Ferramentas<br>
 Git & GitHub<br>
 GitLab<br>
 XAMPP<br>
 
-📱 Outros estudos
+📱 Outros estudos<br>
 Flutter (iniciando no desenvolvimento mobile)
 
 ## 🛠️ Tech Stack
