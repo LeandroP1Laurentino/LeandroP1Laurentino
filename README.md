@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Leandro Pessoa 
 
-🎯 Atualmente estou em transição e evolução na área de desenvolvimento de software, construindo minha base como desenvolvedor full stack.
+🎯 I am currently transitioning and growing in the field of software development, building my foundation as a full stack developer.
 
-💻 Tenho estudado e praticado tecnologias voltadas para desenvolvimento web, banco de dados e também explorando aplicações mobile.
+💻 I have been studying and practicing technologies focused on web development, databases, and also exploring mobile applications.
 
-🚀Tecnologias que estou trabalhando/Estudando
+🚀 Technologies I am working with / studying
 
 🌐 Front-end <br>
 HTML5<br>
@@ -59,10 +59,10 @@ Flutter (iniciando no desenvolvimento mobile)
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+##"If you’re not improving, you’re falling behind.” <br>
 
 ---
+⭐ Thank you for taking the time to visit my profile.
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+I’m always open to learning, collaboration, and new opportunities.
+
